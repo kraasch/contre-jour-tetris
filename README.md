@@ -1,6 +1,8 @@
 
 # nerdy contre-jour tetris
 
+play the game [on kraasch.github.io/contre-jour-tetris](https://kraasch.github.io/contre-jour-tetris/).
+
 keys are:
 
  - p     - toggle pause.
