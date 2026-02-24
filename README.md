@@ -11,7 +11,7 @@ keys are:
  - r     - restart.
  - space - make shape go fast.
 
-it's more of an art work than an actual game.
+it's more of an art work, but also an actual game.
 
 ## by the way
 
